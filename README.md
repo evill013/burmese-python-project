@@ -41,9 +41,11 @@ Are there geographic hotspots? If so, what are the probabilities that volunteers
 When are people most likely to spot pythons, and why? (Analysis + viz)
     Viz: frequency by observation date (OBSDATE)
     Analysis: research python activity - are they diurnal? do we have a timeseries for the observations? not in the official dataset, but maybe inaturalist
+    
 Are sightings cyclical? (Analysis + viz)
     Viz: TimeSeries Analysis
     Analysis: explanation
+    
 How many python observations do you predict will be recorded for the full 2019 year? (time-series analysis) 
     time-series - use it to predit a value(sum of 2019 sightings)
     
